@@ -53,6 +53,7 @@ additional_links:
 about_profile_image: JOHN1422.jpg
 about_content: | # this will include new lines to allow paragraphs
   #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  my resume
   6 Years of Professional experience in DevOps, Configuration Management and expertise in Kubernetes, AWS/Azure/GCP Services and CI/CD tools.
   Experience in Infrastructure as code (IaC) using Terraform
   Passionate to work on latest technologies.
